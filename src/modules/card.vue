@@ -94,7 +94,8 @@ const { banner = '', tag = 'game', time = '刚刚', title = '请输入标题', c
 }
 
 .card .content .right_info {
-    background: url('input.svg') no-repeat;
+    /* background: url('input.svg') no-repeat; */
+    background: url('https://inbox.brawlstars.cn/bundle/hayday/images/0c50fe5f91a9b62bbcdf0f20062848cc.svg') no-repeat;
     -webkit-background-size: 100% 100%;
     background-size: 100%;
     height: 2.75rem;

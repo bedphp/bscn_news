@@ -133,7 +133,8 @@ const back_home = () => {
 
 .back span {
     display: block;
-    background: url('back.svg') no-repeat 0 0/contain;
+    /* background: url('back.svg') no-repeat 0 0/contain; */
+    background: url('https://inbox.brawlstars.cn/bundle/hayday/images/8ac72fbf123f74daede57cfff2d44860.svg') no-repeat 0 0/contain;
     width: 6em;
     height: 3em;
 }
@@ -219,13 +220,13 @@ const back_home = () => {
 .footer .prev .ico {
     width: 2em;
     height: 2em;
-    background: url('next.svg');
+    background: url('https://inbox.brawlstars.cn/bundle/hayday/images/e58df927ed3e61126bcddf5d2c2ddeb8.svg');
     transform: scale(-1);
     background-size: contain !important;
 }
 
 .footer .disable_ico {
-    background: url('disable.svg') !important;
+    background: url('https://inbox.brawlstars.cn/bundle/hayday/images/7769627d6980698fad910579b973ea30.svg') !important;
 }
 
 .footer .prev:active,
@@ -241,7 +242,8 @@ const back_home = () => {
 .footer .next .ico {
     width: 2em;
     height: 2em;
-    background: url('next.svg');
+    /* background: url('next.svg'); */
+    background: url('https://inbox.brawlstars.cn/bundle/hayday/images/e58df927ed3e61126bcddf5d2c2ddeb8.svg');
     transform: scale(1);
     background-size: contain !important;
 }
