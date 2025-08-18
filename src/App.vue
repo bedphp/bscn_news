@@ -51,7 +51,7 @@ window.addEventListener('scroll', () => {
 <style>
 @font-face {
   font-family: cr;
-  src: url('hkw5.ttf');
+  src: url('./assets/hkw5.ttf');
 }
 
 * {
