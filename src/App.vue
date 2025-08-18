@@ -2,8 +2,8 @@
 import { provide, ref, watch } from 'vue';
 import format from './modules/format';
 import { useRoute } from 'vue-router';
-//const api = '/new.json';
-const api = `https://inbox.brawlstars.cn/data/zh_cn/news/content.json`;
+const api = '/new.json';
+//const api = `https://inbox.brawlstars.cn/data/zh_cn/news/content.json`;
 //const api = `http://192.168.0.100:5173/content.json`;
 const s_hidden = ref(false);
 const route = useRoute();
