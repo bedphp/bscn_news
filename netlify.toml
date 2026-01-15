@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/news.json"
+  to = "https://inbox.brawlstars.cn/data/zh_cn/news/content.json"
+  status = 200
+  force = true
